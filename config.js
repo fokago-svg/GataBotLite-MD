@@ -13,8 +13,8 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['5214774444444', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
-['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true],
+['5214774444444', '𝘽𝙤𝙩 ROKI-𝙈𝘿 🌻🐈', true], 
+['593968263524', '𝙂𝘽 ROKI 🌻🐈', true],
 ['573012482597'],
 ['5218715746374'],
 ['5492266613038'], 
@@ -27,7 +27,7 @@ global.owner = [
 global.mods = [] 
 global.prems = []
 
-// Cambiar a false para desactivar en "auto-reconexion" de sub-bots
+// Cambiar a false para desactivar es "auto-reconexion" de sub-bots
 global.gataJadibts = true
 
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
@@ -79,29 +79,29 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝘽𝙤𝙩ROKI-𝙈𝘿 🌻🐈'
+global.author = '𝙂𝙖𝙩𝙖 ROKI'
 global.policyGB = 'github.com/GataNina-Li/GataBot-MD/blob/master/terms.md'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
 ['593968263524', 'Gata Dios 💻', 1], 
-['573147616444', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['573147616444', 'HOSSAM 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['5214434703586', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['5521989092076', 'HOSSAM 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '' //agrega tú país ejemplo: 🇲🇦
 
 global.vs = '1.4.0'
 global.vsJB = '5.0 (beta)'
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.gt = '𝘽𝙤𝙩ROKI-𝙈𝘿'
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = '𝘽𝙤𝙩ROKI-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 ROKI'
+global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤T ROKI-𝙈𝘿'
 global.nomorown = owner[0][0]
 
 global.htki = '*⭑•̩̩͙⊱•••• ☪*'
@@ -121,7 +121,7 @@ global.tk = 'https://www.tiktok.com/@gata_dios'
 global.ths = 'https://www.threads.net/@gata_dios'
 global.yt = 'https://youtube.com/@gatadios'
 global.yt2 = 'https://youtu.be/Ko019wvu2Tc'
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.instagram.com/hossam2023_5'
 global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789'
 global.paypal = 'https://paypal.me/OficialGD'
